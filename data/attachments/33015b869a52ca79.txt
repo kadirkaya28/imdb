@@ -1,0 +1,4 @@
+Request Body:  {"site_code": "MB", "name": "Menu Mang Test", "directive": "footer_menu47", "platform": "desktop", "class_name": "mitempsFooter_MenuContainer", "status": false, "items": [{"target": "_self", "is_new_tab": true, "url": "/sport", "title": "sport", "icon_class": "", "availability_date": "2020-12-18 12:00", "status": true, "order": 1, "backgroud_image": "", "available_roles": [0], "action": ""}, {"target": "_blank", "is_new_tab": false, "url": "/live", "title": "live_translate_key", "icon_class": "live", "availability_date": "2021-08-15 12:00", "status": false, "order": 2, "backgroud_image": "https://www.google.com/", "available_roles": [0, 1], "action": "live-refresh"}]}
+
+
+Response:  {'success': False, 'data': [], 'messages': ['The directive has already been taken.']}
